@@ -1,6 +1,7 @@
 /*
 * Receber code(string)
 *Recuperar o acess_token no github
+*--- - SIm = gera um token
  */
 
 
